@@ -1,0 +1,2 @@
+rootProject.name = "AtomTest"
+include ':app'
